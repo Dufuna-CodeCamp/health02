@@ -1,0 +1,55 @@
+#title{
+    background-color: #611F69;
+    color: #fff;
+}
+
+.container-fluid{
+    padding: 1.5% 7% 1.5%;
+}
+
+.navbar-brand {
+	font-size: 32px;
+}
+
+.nav-link{
+	font-size: 22px;
+}
+
+.card{
+    height: 100%;
+    background-color: #eeeeee;
+  }
+
+.btn-start2{
+	width: 100%;
+	color: white;
+    background-color:  #611F69;
+    border: none;
+  }
+.btn-start2:hover{
+	background-color:  #611F60;
+	color: white;
+  }
+
+.forget-password a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+  }
+.sign-up{
+    color: black;
+  }
+.signup-link a{
+    text-decoration: none;
+  }
+.footer{
+	color: white;
+	margin: 90px 0px 0px 0px;
+    background: #4A154B;
+	padding: 60px;
+	text-align: center;
+}
+
+
+
+
